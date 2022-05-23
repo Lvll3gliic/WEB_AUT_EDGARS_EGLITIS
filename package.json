@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_edgars_eglitis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lvll3gliic/WEB_AUT_EDGARS_EGLITIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lvll3gliic/WEB_AUT_EDGARS_EGLITIS/issues"
+  },
+  "homepage": "https://github.com/Lvll3gliic/WEB_AUT_EDGARS_EGLITIS#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
